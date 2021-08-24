@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Kebahagiaan tergantung dari sudut pandangmu
 Use the left arrow to go back!
